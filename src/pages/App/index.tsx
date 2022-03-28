@@ -1,12 +1,18 @@
 import { Board } from "../../components/Board";
 import { Button } from "../../components/Button";
+import { GameState } from "../../components/GameState";
 import "./App.css";
 
 function App() {
+  const { gamePlay, checkWin, announceWinner } = GameState();
+
   return (
     <div className="App">
+      <h1 className="Title">Tic-Tac-Toe</h1>
       <Board />
-      <Button onClick={() => {}}>Play again!</Button>
+      <div className="BtnContainer">
+        <Button onClick={() => {}}>Play again!</Button>
+      </div>
     </div>
   );
 }

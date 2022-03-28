@@ -7,5 +7,5 @@ type BtnProps = {
 };
 
 export const Button = ({ children, onClick }: BtnProps) => (
-  <button>{children}</button>
+  <button className="BtnPlay">{children}</button>
 );

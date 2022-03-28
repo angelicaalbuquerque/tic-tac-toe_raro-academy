@@ -19,3 +19,15 @@ body {
   background-color: #1d1d1d;
   color: #dddddd;
 }
+
+.Title {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.BtnContainer {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
