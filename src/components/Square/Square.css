@@ -1,0 +1,92 @@
+.firstSquare {
+  border: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.secondSquare {
+  border-top: 2px solid #d3d3d3;
+  border-bottom: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.thirdSquare {
+  border: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fourthSquare {
+  border: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fifthSquare {
+  border-top: 2px solid #d3d3d3;
+  border-bottom: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sixthSquare {
+  border: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.seventhSquare {
+  border: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eighthSquare {
+  border-top: 2px solid #d3d3d3;
+  border-bottom: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ninthSquare {
+  border: 2px solid #d3d3d3;
+  width: 150px;
+  height: 150px;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
